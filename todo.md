@@ -1,0 +1,11 @@
+- when user create announcement before payment they can see the announcement's preview with amount in ETH(USD), before proceeding to payment (/preview)
+- when payement fails they can start again (future)
+- can edit there annoucement if they choose to /preview
+- if they choose to /preview before constructing annoucment, a warning issues
+- /my_announcment
+- /my_commuinties
+- user can opt to pay in either stablecoin or ETH on base chain
+- when a community is verified bot send a link to the admin to join our annoucement channel, upn joining they can see upcoming announcement and upvote and downvote, depanding on upvote (if >50%) annoucment will be circulated otherwiser rejected
+- send annoucment only if payment is done (without verification from admin)
+
+- (done) model of announcement, community
